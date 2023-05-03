@@ -1,0 +1,28 @@
+.li-cont {
+  display: flex;
+  flex-direction: column;
+}
+.top--li-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.post-head {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  color: #12022f;
+}
+.post-date {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #616e7c;
+}
+.post-para {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #616e7c;
+}
+.hr {
+  height: 2px;
+}
